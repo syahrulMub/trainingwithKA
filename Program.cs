@@ -1,6 +1,6 @@
 ﻿class Program
 {    
-    static void Main()
+    static void Main(string[] args)
     {
         Console.WriteLine("hallo kang!!!!");
         Print("Hallo juga");
