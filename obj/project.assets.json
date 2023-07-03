@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\latihan-koding\\latihanwithKA\\trainingwithKA\\trainingwithKA.csproj",
+      "projectUniqueName": "D:\\cobaclone\\trainingwithKA\\trainingwithKA.csproj",
       "projectName": "trainingwithKA",
-      "projectPath": "D:\\latihan-koding\\latihanwithKA\\trainingwithKA\\trainingwithKA.csproj",
+      "projectPath": "D:\\cobaclone\\trainingwithKA\\trainingwithKA.csproj",
       "packagesPath": "C:\\Users\\Sahrul\\.nuget\\packages\\",
-      "outputPath": "D:\\latihan-koding\\latihanwithKA\\trainingwithKA\\obj\\",
+      "outputPath": "D:\\cobaclone\\trainingwithKA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sahrul\\AppData\\Roaming\\NuGet\\NuGet.Config"
