@@ -1,13 +1,12 @@
 ﻿class Program
-{
-    static void Print(message)
-    {
-        Console.WriteLine("\n" + message);
-    }
-    
+{    
     static void Main()
     {
         Console.WriteLine("hallo kang!!!!");
-        Print("hallo juga");
+        Print("Hallo juga");
+    }
+    static void Print(string massage)
+    {
+        Console.WriteLine(massage);
     }
 }

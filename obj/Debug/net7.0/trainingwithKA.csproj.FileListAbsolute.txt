@@ -1,0 +1,15 @@
+D:\latihan-koding\latihanwithKA\trainingwithKA\obj\Debug\net7.0\trainingwithKA.csproj.AssemblyReference.cache
+D:\latihan-koding\latihanwithKA\trainingwithKA\obj\Debug\net7.0\trainingwithKA.GeneratedMSBuildEditorConfig.editorconfig
+D:\latihan-koding\latihanwithKA\trainingwithKA\obj\Debug\net7.0\trainingwithKA.AssemblyInfoInputs.cache
+D:\latihan-koding\latihanwithKA\trainingwithKA\obj\Debug\net7.0\trainingwithKA.AssemblyInfo.cs
+D:\latihan-koding\latihanwithKA\trainingwithKA\obj\Debug\net7.0\trainingwithKA.csproj.CoreCompileInputs.cache
+D:\latihan-koding\latihanwithKA\trainingwithKA\bin\Debug\net7.0\trainingwithKA.exe
+D:\latihan-koding\latihanwithKA\trainingwithKA\bin\Debug\net7.0\trainingwithKA.deps.json
+D:\latihan-koding\latihanwithKA\trainingwithKA\bin\Debug\net7.0\trainingwithKA.runtimeconfig.json
+D:\latihan-koding\latihanwithKA\trainingwithKA\bin\Debug\net7.0\trainingwithKA.dll
+D:\latihan-koding\latihanwithKA\trainingwithKA\bin\Debug\net7.0\trainingwithKA.pdb
+D:\latihan-koding\latihanwithKA\trainingwithKA\obj\Debug\net7.0\trainingwithKA.dll
+D:\latihan-koding\latihanwithKA\trainingwithKA\obj\Debug\net7.0\refint\trainingwithKA.dll
+D:\latihan-koding\latihanwithKA\trainingwithKA\obj\Debug\net7.0\trainingwithKA.pdb
+D:\latihan-koding\latihanwithKA\trainingwithKA\obj\Debug\net7.0\trainingwithKA.genruntimeconfig.cache
+D:\latihan-koding\latihanwithKA\trainingwithKA\obj\Debug\net7.0\ref\trainingwithKA.dll
