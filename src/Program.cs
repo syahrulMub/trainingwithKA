@@ -1,19 +1,40 @@
-﻿class Program
-{    
-    static void Main(string[] args) 
+﻿using System.Diagnostics;
+using System.Text;
+
+namespace FooBarChangalle
+{
+    class Program
     {
-        Console.WriteLine("hallo kang!!!!");
-        Print("Hallo juga");
-        Print("error kah?");
-        Print("ini adalah push");
-        Print("apakah teori error itu nyata");
-        Print(100);
-        Print(0.75);
-        Print(true);
-    }
-    
-    static void Print<T>(T data)
-    {
-        Console.WriteLine(data);
+        static void Main(string[] args)
+        {
+            var sw = new Stopwatch();
+            sw.Start();
+
+            FooBar2 obj = new FooBar2();
+            obj.add(3, "Fizz");
+            obj.add(5, "Buzz");
+            obj.add(7, "Dazz");
+            obj.remove(7);
+            obj.process();
+
+            sw.Stop();
+            Console.WriteLine("\nElapsed={0}", sw.Elapsed);
+
+            // FooBar obj = new FooBar();
+            // int Input = obj.GetInputUser();
+            // obj.AddData(3, "Fizz");
+            // obj.RemoveData(5);
+            // obj.AddData(4, "Dazz");
+
+
+            // //menampilkan hasil akhir
+            // StringBuilder result = new();
+            // for (int i = 1; i <= Input; i++)
+            // {
+            //     string resultData = obj.GetData(i);
+            //     result.Append(resultData).Append(" ");
+            // }
+            // Console.WriteLine(result.ToString());
+        }
     }
 }
